@@ -1,10 +1,10 @@
-# Prework - *Name of App Here*
+# Prework - Codepath iOS Prework
 
-Submitted by: **Your Name Here**
+Submitted by: Moses Yang
 
-**Name of your app** is an app that... [TODO] 
+Color Changer is an app that displays my name, school, and potential career. It contains a button that changes the background color when pressed.
 
-Time spent: **X** hours spent in total
+Time spent: 2 hours spent in total
 
 ## Required Features
 
@@ -39,7 +39,7 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
   - ⁤Code Companion would be a practical toolkit for developers, offering a mobile collection of coding tools. ⁤⁤It would include a REPL for portable testing, as well as helpful developer tools such as syntax checkers and formatters. ⁤⁤The app would also be able to provide a runtime analysis with visual aids like graphs to help track memory usage and code efficiency. ⁤⁤The goal of Code Companion is to aid in debugging, testing, and improving code in real-time. ⁤
 ## Notes
 
-Describe any challenges encountered while building the app.
+No challenges were encountered when building the app.
 
 ## License
 
